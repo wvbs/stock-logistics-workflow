@@ -33,6 +33,7 @@ addon | version | maintainers | summary
 [stock_delivery_note](stock_delivery_note/) | 15.0.1.0.0 |  | This module allows to fill in a delivery note that will be displayed on delivery report
 [stock_force_assign_by_type](stock_force_assign_by_type/) | 15.0.1.0.0 |  | Force stock allocation based on the picking operation type in Odoo
 [stock_landed_costs_delivery](stock_landed_costs_delivery/) | 15.0.2.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Stock landed costs delivery
+[stock_landed_costs_priority](stock_landed_costs_priority/) | 15.0.1.0.0 |  | Add priority to landed costs
 [stock_landed_costs_purchase_auto](stock_landed_costs_purchase_auto/) | 15.0.2.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Stock landed costs purchase auto
 [stock_landed_costs_security](stock_landed_costs_security/) | 15.0.1.0.0 | [![cesar-tecnativa](https://github.com/cesar-tecnativa.png?size=30px)](https://github.com/cesar-tecnativa) | Stock landed costs security
 [stock_lot_on_hand_first](stock_lot_on_hand_first/) | 15.0.1.0.0 | [![grindtildeath](https://github.com/grindtildeath.png?size=30px)](https://github.com/grindtildeath) | Allows to display lots on hand first in M2o fields
