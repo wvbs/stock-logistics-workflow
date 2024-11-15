@@ -28,7 +28,7 @@ addon | version | maintainers | summary
 [sale_line_returned_qty](sale_line_returned_qty/) | 15.0.1.0.0 |  | Track returned quantity of sale order lines.
 [sale_line_returned_qty_mrp](sale_line_returned_qty_mrp/) | 15.0.1.0.1 |  | Track returned quantity of sale order lines for BoM products.
 [sale_order_global_stock_route](sale_order_global_stock_route/) | 15.0.1.0.0 |  | Add the possibility to choose one warehouse path for an order
-[stock_account_product_run_fifo_hook](stock_account_product_run_fifo_hook/) | 15.0.1.0.1 |  | Add more flexibility in the run fifo method.
+[stock_account_product_run_fifo_hook](stock_account_product_run_fifo_hook/) | 15.0.1.0.2 |  | Add more flexibility in the run fifo method.
 [stock_auto_move](stock_auto_move/) | 15.0.1.0.0 |  | Automatic Move Processing
 [stock_delivery_note](stock_delivery_note/) | 15.0.1.0.0 |  | This module allows to fill in a delivery note that will be displayed on delivery report
 [stock_force_assign_by_type](stock_force_assign_by_type/) | 15.0.1.0.1 |  | Force stock allocation based on the picking operation type in Odoo
