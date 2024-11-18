@@ -24,7 +24,7 @@ addon | version | maintainers | summary
 [delivery_procurement_group_carrier](delivery_procurement_group_carrier/) | 17.0.1.1.1 |  | Delivery Procurement Group Carrier
 [purchase_stock_picking_invoice_link](purchase_stock_picking_invoice_link/) | 17.0.1.0.0 |  | Adds link between purchases, pickings and invoices
 [sale_order_global_stock_route](sale_order_global_stock_route/) | 17.0.1.0.0 |  | Add the possibility to choose one warehouse path for an order
-[stock_account_product_run_fifo_hook](stock_account_product_run_fifo_hook/) | 17.0.1.0.0 |  | Add more flexibility in the run fifo method.
+[stock_account_product_run_fifo_hook](stock_account_product_run_fifo_hook/) | 17.0.1.0.1 |  | Add more flexibility in the run fifo method.
 [stock_account_show_automatic_valuation](stock_account_show_automatic_valuation/) | 17.0.1.0.0 |  | Allow automatic valuation for stock moves in community edition
 [stock_lot_on_hand_first](stock_lot_on_hand_first/) | 17.0.1.0.0 | [![grindtildeath](https://github.com/grindtildeath.png?size=30px)](https://github.com/grindtildeath) | Allows to display lots on hand first in M2o fields
 [stock_move_line_reference_link](stock_move_line_reference_link/) | 17.0.1.0.0 |  | Add link in stock move line references.
@@ -47,7 +47,7 @@ addon | version | maintainers | summary
 [stock_picking_warn_message](stock_picking_warn_message/) | 17.0.1.0.0 |  | Add a popup warning on picking to ensure warning is populated
 [stock_restrict_lot](stock_restrict_lot/) | 17.0.1.1.0 | [![florian-dacosta](https://github.com/florian-dacosta.png?size=30px)](https://github.com/florian-dacosta) | Base module that add back the concept of restrict lot on stock move
 [stock_split_picking](stock_split_picking/) | 17.0.1.0.0 |  | Split a picking in two not transferred pickings
-[stock_valuation_layer_usage](stock_valuation_layer_usage/) | 17.0.1.0.0 |  | Trace where has the stock valuation been used in, including the quantities taken.
+[stock_valuation_layer_usage](stock_valuation_layer_usage/) | 17.0.1.0.1 |  | Trace where has the stock valuation been used in, including the quantities taken.
 
 [//]: # (end addons)
 
